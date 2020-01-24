@@ -403,7 +403,7 @@ h3 {
     justify-content: space-evenly;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 720px) {
     .nav-links {
         display: none;
     }
