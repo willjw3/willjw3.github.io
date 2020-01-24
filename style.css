@@ -410,6 +410,9 @@ h3 {
     #toggle {
         display: inline-block;
     }
+    .home-subheading {
+        font-size: 1.25em;
+    }
     .about-highlights3 {
         width: 90%;
     }
