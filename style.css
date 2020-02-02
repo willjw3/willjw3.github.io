@@ -401,6 +401,7 @@ h3 {
     width: 300px;
     display: flex;
     justify-content: space-evenly;
+    padding: 15px;
 }
 
 @media screen and (max-width: 720px) {
